@@ -12,42 +12,34 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ## 📚 **Table of Contents**
 
-1. Here's the updated **Table of Contents** without numbering:
-
-   ---
-
-   ## 📚 **Table of Contents**
-
-   - [Papers](#papers)  
-     - [Surveys](#surveys)  
-     - [Deep Learning-based Methods](#deep-learning-based-methods)  
-       - [Reconstructive Deep Graph Clustering](#reconstructive-deep-graph-clustering)  
-       - [Adversarial Deep Graph Clustering](#adversarial-deep-graph-clustering)  
-       - [Contrastive Deep Graph Clustering](#contrastive-deep-graph-clustering)  
-     - [Spectral Methods](#spectral-methods)  
-     - [Label Propagation](#label-propagation)  
-     - [Modularity Optimization](#modularity-optimization)  
-     - [Stochastic Block Models](#stochastic-block-models)  
-     - [Nonnegative Matrix Factorization](#nonnegative-matrix-factorization)  
-     - [Other Methods](#other-methods)  
-     - [Community Detection with Unknown Cluster Number](#community-detection-with-unknown-cluster-number)  
-     - [Overlapping Community Detection](#overlapping-community-detection)  
-     - [Temporal Community Detection](#temporal-community-detection)  
-     - [Attribute-Missing Community Detection](#attribute-missing-community-detection)  
-     - [Multi-view Graph Clustering](#multi-view-graph-clustering)  
-   - [Weekly Paper Presentations](#weekly-paper-presentations)
-   - [Useful Libraries](#useful-libraries)
-   - [References](#references)
-
-   ---
-
-   Let me know if there's anything else you'd like to change!
+- [Papers](#papers)  
+  - [Surveys](#surveys)  
+  - [Deep Learning-based Methods](#deep-learning-based-methods)  
+    - [Reconstructive Deep Graph Clustering](#reconstructive-deep-graph-clustering)  
+    - [Adversarial Deep Graph Clustering](#adversarial-deep-graph-clustering)  
+    - [Contrastive Deep Graph Clustering](#contrastive-deep-graph-clustering)  
+  - [Spectral Methods](#spectral-methods)  
+  - [Label Propagation](#label-propagation)  
+  - [Modularity Optimization](#modularity-optimization)  
+  - [Stochastic Block Models](#stochastic-block-models)  
+  - [Nonnegative Matrix Factorization](#nonnegative-matrix-factorization)  
+  - [Other Methods](#other-methods)  
+  - [Community Detection with Unknown Cluster Number](#community-detection-with-unknown-cluster-number)  
+  - [Overlapping Community Detection](#overlapping-community-detection)  
+  - [Temporal Community Detection](#temporal-community-detection)  
+  - [Attribute-Missing Community Detection](#attribute-missing-community-detection)  
+  - [Multi-view Graph Clustering](#multi-view-graph-clustering)  
+- [Weekly Paper Presentations](#weekly-paper-presentations)
+- [Useful Libraries](#useful-libraries)
+- [References](#references)
 
 ---
 
-## <a name="papers"></a> 
+Let me know if there's anything else you'd like to change!
 
-## 📑 Papers
+---
+
+## <a name="papers"></a> 📑 Papers
 
 ### Surveys
 
@@ -143,7 +135,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ---
 
-## 📆  **Weekly Paper Presentations**
+## <a name="weekly-paper-presentations"></a> 📆 Weekly Paper Presentations
 
 Each week, we present a paper related to community detection in our research group. This section includes summaries and key takeaways from the weekly papers discussed in our meetings. Click on the links below to access each presentation.
 
@@ -152,7 +144,7 @@ Each week, we present a paper related to community detection in our research gro
 
 ---
 
-## 📖  **Useful Libararies**
+## <a name="useful-libraries"></a> 📖 Useful Libraries
 - [A Comprehensive Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning](#)
 
 ---
