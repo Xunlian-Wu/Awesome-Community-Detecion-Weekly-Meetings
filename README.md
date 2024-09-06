@@ -2,7 +2,7 @@
 
 # Awesome-Community-Detecion-Weekly-Meetings
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/Xunlian-Wu/awesome-community-detecion-weekly-meetings?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/Xunlian-Wu/awesome-community-detecion-weekly-meetings?color=blue&label=Forks) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/Xunlian-Wu/Awesome-Community-Detecion-Weekly-Meetings?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/Xunlian-Wu/Awesome-Community-Detecion-Weekly-Meetings?color=blue&label=Forks) 
 
 Welcome to the **Awesome Community Detection** repository! This is a curated collection of resources, papers, and methods related to **Community Detection** in complex networks. Community detection, also known as graph clustering, is a crucial task in network science that aims to uncover modular structures in graphs representing real-world systems, such as social networks, biological networks, and communication networks.
 
