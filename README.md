@@ -49,7 +49,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 | Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
 | :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
-| 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
+| 2021 | Paper Title |  s   | University  | Journal Name | [Link](#) | [Link](#) |
 
 #### Adversarial Deep Graph Clustering
 
