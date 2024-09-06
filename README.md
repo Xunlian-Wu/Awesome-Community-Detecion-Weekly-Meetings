@@ -47,86 +47,86 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 #### Reconstructive Deep Graph Clustering
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
-| 2021 | Paper Title |  s   | University  | Journal Name | [Link](#) | [Link](#) |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
+| 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 #### Adversarial Deep Graph Clustering
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 #### Contrastive Deep Graph Clustering
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Spectral Methods
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Label Propagation
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Modularity Optimization
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Stochastic Block Models
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### **Nonnegative** Matrix Factorization
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Other Methods
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Community Detection with Unknown Cluster Number
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Overlapping Community Detection
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Temporal Community Detection
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Attribute-Missing Community Detection
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ### Multi-view graph clustering
 
-| Year |    Title    |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------: | :--: | :---------: | :----------: | :-------: | :-------: |
+| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
+| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
 | 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
 
 ---
