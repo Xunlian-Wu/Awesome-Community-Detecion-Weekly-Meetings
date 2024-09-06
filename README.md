@@ -33,9 +33,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 - [Useful Libraries](#useful-libraries)
 - [References](#references)
 
----
 
-Let me know if there's anything else you'd like to change!
 
 ---
 
