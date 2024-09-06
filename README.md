@@ -39,9 +39,9 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### Surveys
 
-| Year | Title                                                        |   CA   |     Institution      | **Venue** |                            Paper                             | Code |
-| :--: | :----------------------------------------------------------- | :----: | :------------------: | :-------: | :----------------------------------------------------------: | :--: |
-| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** | Jia Wu | Macquarie University |   TNNLS   | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  --  |
+| Year | Title                                                        |     CA     |     Institution      | **Venue** |                            Paper                             | Code |
+| :--: | :----------------------------------------------------------- | :--------: | :------------------: | :-------: | :----------------------------------------------------------: | :--: |
+| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** | Xunlian Wu | Macquarie University |   TNNLS   | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  --  |
 
 ### Deep Learning-based Methods
 
