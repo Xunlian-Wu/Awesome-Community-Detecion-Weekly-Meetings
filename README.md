@@ -157,7 +157,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 Each week, we present a paper related to community detection in our research group. This section includes summaries and key takeaways from the weekly papers discussed in our meetings. Click on the links below to access each presentation.
 
 - **Week 1- [Synergistic Deep Graph Clustering Network(SDGCN)](https://github.com/Derick077/Weekly-meeting)and[UltraGcn](https://github.com/fal1winter/graph-notebook)**
-- **Week 2- [Paper Title](#)**
+- **Week 2- [Contrastive Multiview Attribute Graph Clustering With Adaptive Encoders(CMAGC)](https://github.com/Derick077/Weekly-meeting)**
 
 ---
 
