@@ -159,7 +159,7 @@ Each week, we present a paper related to community detection in our research gro
 - **Week 1- [Synergistic Deep Graph Clustering Network(SDGCN)](https://github.com/Derick077/Weekly-meeting)and[UltraGcn](https://github.com/fal1winter/graph-notebook)**
 - **Week 2- [Contrastive Multiview Attribute Graph Clustering With Adaptive Encoders(CMAGC)](https://github.com/Derick077/Weekly-meeting)and[Heterogeneous Graph Contrastive Learning for Recommendation（HGCL）](https://github.com/fal1winter/graph-notebook)**
 - **Week 3- [Motif-Based Contrastive Learning for Community Detection（MotifCC）](https://github.com/Derick077/Weekly-meeting)and[XSimGCL](https://github.com/fal1winter/graph-notebook)**
-- **Week 4- [Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective(Magi)](https://github.com/Derick077/Weekly-meeting)and[Multi-View Attribute Graph Convolution Networks for Clustering](https://github.com/guohanju/Weekly-Meeting.git)**
+- **Week 4- [Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective(Magi)](https://github.com/Derick077/Weekly-meeting)and[Multi-View Attribute Graph Convolution Networks for Clustering(MAGCN)](https://github.com/guohanju/Weekly-Meeting.git)**
 ---
 
 ## <a name="useful-libraries"></a> 📖 Useful Libraries
