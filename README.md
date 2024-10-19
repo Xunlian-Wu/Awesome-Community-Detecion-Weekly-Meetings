@@ -10,7 +10,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ---
 
-## 📚 **Contents**。
+## 📚 **Contents**
 
 - [Papers](#papers)  
   - [Surveys](#surveys)  
