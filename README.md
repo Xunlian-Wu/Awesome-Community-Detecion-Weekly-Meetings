@@ -40,9 +40,12 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### Surveys
 
-| Year | Title                                                        |   CA   |     Institution      | **Venue** |                            Paper                             | Code |
-| :--: | :----------------------------------------------------------- | :----: | :------------------: | :-------: | :----------------------------------------------------------: | :--: |
-| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** | Jia Wu | Macquarie University |  *TNNLS*  | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |  --  |
+| Year | Title                                                        |       CA        |                       Institution                        | **Venue** |                            Paper                             |                             Code                             |
+| :--: | :----------------------------------------------------------- | :-------------: | :------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | Advanced Graph Clustering Methods: A Comprehensive and In-Depth Analysis | Timothé Watteau |               UTBM, Energy and IT Division               |   arXiv   |           [Link](https://arxiv.org/abs/2407.09055)           | [Link](https://github.com/timothewt/AdvancedGraphClustering) |
+| 2023 | **An Overview of Advanced Deep Graph Node Clustering**       |   William Zhu   | University of Electronic Science and Technology of China |   TCSS    | [Link](https://ieeexplore.ieee.org/abstract/document/10049408/) |                              --                              |
+| 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource** |   Xinwang Liu   |        National University of Defense Technology         |   arXiv   |           [Link](https://arxiv.org/abs/2211.12875)           | [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
+| 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |     Jia Wu      |                   Macquarie University                   |  *TNNLS*  | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |                              --                              |
 
 ### Deep Learning-based Methods
 
