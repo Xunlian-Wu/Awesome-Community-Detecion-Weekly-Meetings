@@ -46,6 +46,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 | 2023 | **An Overview of Advanced Deep Graph Node Clustering**       |   William Zhu   | University of Electronic Science and Technology of China |  *TCSS*   | [Link](https://ieeexplore.ieee.org/abstract/document/10049408/) |                              --                              |
 | 2022 | **A Survey of Deep Graph Clustering: Taxonomy, Challenge, Application, and Open Resource** |   Xinwang Liu   |        National University of Defense Technology         |  *arXiv*  |           [Link](https://arxiv.org/abs/2211.12875)           | [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
 | 2022 | **A Comprehensive Survey on Community Detection with Deep Learning** |     Jia Wu      |                   Macquarie University                   |  *TNNLS*  | [Link](https://arxiv.org/pdf/2105.12584.pdf?ref=https://githubhelp.com) |                              --                              |
+| 2021 | **A survey of community detection approaches: From statistical modeling to deep learning** |  Pengfei Jiao   |                    Tianjin University                    |  *TKDE*   | [Link](https://ieeexplore.ieee.org/abstract/document/9511798/) |                              --                              |
 
 ### Deep Learning-based Methods
 
