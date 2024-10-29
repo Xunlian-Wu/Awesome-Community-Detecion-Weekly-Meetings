@@ -113,7 +113,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 | 2024 | **Graph Decoding via Generalized Random Dot Product Graph**  | Alvaro Ciudad Serrano |                      --                       |  *ICLR*   |       [Link](https://openreview.net/pdf?id=AxYTFpdlvj)       |  --  |
 | 2024 | **Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering** |        Yu Wang        |              Tianjin University               |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29664/31133) |  --  |
 | 2023 | **The projection method: a unified formalism for community detection** |    Martijn Gösgens    |      Eindhoven University of Technology       |  *arXiv*  | [Link](https://www.frontiersin.org/articles/10.3389/fcpxs.2024.1331320/pdf) |  --  |
-| 2023 | **Multi-class Graph Clustering via Approximated Effective** *p***-Resistance** |      Shota Saito      |           University College London           |  *PMLR*   | [Link](https://proceedings.mlr.press/v202/saito23a/saito23a.pdf) |  --  |
+| 2023 | **Multi-class Graph Clustering via Approximated Effective *p*-Resistance** |      Shota Saito      |           University College London           |  *PMLR*   | [Link](https://proceedings.mlr.press/v202/saito23a/saito23a.pdf) |  --  |
 
 ### Community Detection with Unknown Cluster Number
 
