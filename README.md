@@ -50,9 +50,9 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 #### Reconstructive Deep Graph Clustering
 
-| Year | Title                              |     CA      |                Institution                | **Venue** |                  Paper                   |                             Code                             |
-| :--: | :--------------------------------- | :---------: | :---------------------------------------: | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2024 | **Deep Temporal Graph Clustering** | Xinwang Liu | National University of Defense Technology |  *arXiv*  | [Link](https://arxiv.org/pdf/2305.10738) | [Link](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering.git) |
+| Year | Title                                                        |   CA   |                    Institution                     | **Venue** |                            Paper                             |                     Code                     |
+| :--: | :----------------------------------------------------------- | :----: | :------------------------------------------------: | :-------: | :----------------------------------------------------------: | :------------------------------------------: |
+| 2023 | **Wiener Graph Deconvolutional Network Improves Graph Self-Supervised Learning** | Jia Li | The Hong Kong University of Science and Technology |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/25870/25642) | [Link](https://github.com/jcheng66/WGDN.git) |
 
 #### Adversarial Deep Graph Clustering
 
@@ -62,11 +62,13 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 #### Contrastive Deep Graph Clustering
 
-| Year | Title                                                        |       CA       |              Institution              | **Venue** |                            Paper                             |                         Code                          |
-| :--: | :----------------------------------------------------------- | :------------: | :-----------------------------------: | :-------: | :----------------------------------------------------------: | :---------------------------------------------------: |
-| 2024 | **Deep Contrastive Graph Learning with Clustering-Oriented Guidance** |   Xuelong Li   | Northwestern Polytechnical University |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/download/29016/29927) |  [Link](https://github.com/drongwbc/DCGL-AAAI24.git)  |
-| 2023 | **A Contrastive Variational Graph Auto-Encoder** **for Node Clustering** | Nairouz Mrabah |         University of Quebec          |  *arXiv*  |           [Link](https://arxiv.org/pdf/2312.16830)           |    [Link](https://github.com/nairouz/CVGAE_PR.git)    |
-| 2023 | **CONVERT: Contrastive Graph Clustering with Reliable**      |  Xinwang Liu   |    National University of Defense     |  *arXiv*  |           [Link](https://arxiv.org/pdf/2308.08963)           | [Link](https://github.com/xihongyang1999/CONVERT.git) |
+| Year | Title                                                        |       CA       |                     Institution                     | **Venue** |                            Paper                             |                         Code                          |
+| :--: | :----------------------------------------------------------- | :------------: | :-------------------------------------------------: | :-------: | :----------------------------------------------------------: | :---------------------------------------------------: |
+| 2024 | **Deep Contrastive Graph Learning with Clustering-Oriented Guidance** |   Xuelong Li   |        Northwestern Polytechnical University        |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/download/29016/29927) |  [Link](https://github.com/drongwbc/DCGL-AAAI24.git)  |
+| 2023 | **Community-Aware Efficient Graph Contrastive Learning via Personalized Self-Training** |  Yuecheng Li   |               Sun Yat-Sen University                |  *arXiv*  |           [Link](https://arxiv.org/pdf/2311.11073)           |                          --                           |
+| 2023 | **Cluster-guided Contrastive Graph Clustering Network**      |  Xihong Yang   | UniversityNational University of Defense Technology |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/download/26285/26057) |  [Link](https://github.com/xihongyang1999/CCGC.git)   |
+| 2023 | **A Contrastive Variational Graph Auto-Encoder** **for Node Clustering** | Nairouz Mrabah |                University of Quebec                 |  *arXiv*  |           [Link](https://arxiv.org/pdf/2312.16830)           |    [Link](https://github.com/nairouz/CVGAE_PR.git)    |
+| 2023 | **CONVERT: Contrastive Graph Clustering with Reliable Augmentation** |  Xinwang Liu   |           National University of Defense            |  *arXiv*  |           [Link](https://arxiv.org/pdf/2308.08963)           | [Link](https://github.com/xihongyang1999/CONVERT.git) |
 
 ### Spectral Methods
 
@@ -76,16 +78,17 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### Label Propagation
 
-| Year | Title                                        |         CA         |      Institution       | **Venue** |                  Paper                   | Code |
-| :--: | :------------------------------------------- | :----------------: | :--------------------: | :-------: | :--------------------------------------: | :--: |
-| 2023 | **Local Graph Clustering with Noisy Labels** | Artur Back de Luca | University of Waterloo |  *arXiv*  | [Link](https://arxiv.org/abs/2310.08031) |  --  |
+| Year | Title                                                        |         CA         |      Institution       | **Venue** |                            Paper                             |                     Code                      |
+| :--: | :----------------------------------------------------------- | :----------------: | :--------------------: | :-------: | :----------------------------------------------------------: | :-------------------------------------------: |
+| 2023 | **Local Graph Clustering with Noisy Labels**                 | Artur Back de Luca | University of Waterloo |  *arXiv*  |           [Link](https://arxiv.org/abs/2310.08031)           |                      --                       |
+| 2022 | **Self-consistent Contrastive Attributed Graph Clustering with Pseudo-label Prompt** |      Wei Xia       |   Xidian University    |  *IEEE*   | [Link](https://ieeexplore.ieee.org/abstract/document/9914670) | [Link](https://github.com/xdweixia/SCAGC.git) |
 
 ### Modularity Optimization
 
 | Year | Title                                                        |       CA       |               Institution               | **Venue** |                            Paper                             | Code |
 | :--: | :----------------------------------------------------------- | :------------: | :-------------------------------------: | :-------: | :----------------------------------------------------------: | :--: |
 | 2024 | **Attributed Graph Clustering via Coarsening with Modularity** | Samarth Bhatia |       Indian Institute of Science       |  *ICLR*   |       [Link](https://openreview.net/pdf?id=ukmh3mWFf0)       |  --  |
-| 2023 | **DGCLUSTER: A Neural Framework for Attributed Graph Clustering via** |   Mert Kosan   | University of California, Santa Barbara |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28983/29868) |  --  |
+| 2023 | **DGCLUSTER: A Neural Framework for Attributed Graph Clustering via Modularity Maximization** |   Mert Kosan   | University of California, Santa Barbara |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/28983/29868) |  --  |
 
 ### Stochastic Block Models
 
@@ -98,8 +101,8 @@ This repository serves as a central hub for resources discussed in our weekly re
 | Year | Title                                                        |     CA     |      Institution       | **Venue** |                            Paper                             |                           Code                           |
 | :--: | :----------------------------------------------------------- | :--------: | :--------------------: | :-------: | :----------------------------------------------------------: | :------------------------------------------------------: |
 | 2024 | **Contrastive Deep Nonnegative Matrix Factorization For Community Detection** | Chuan Chen | Sun Yat-sen University |  *arXiv*  | [Link](https://ieeexplore.ieee.org/abstract/document/10446107) |        [Link](https://github.com/6lyc/CDNMF.git)         |
-| 2024 | **Community detection in attributed networks via adaptive deep** | Chaobo He  |   South China Normal   |   *NCA*   | [Link](https://link.springer.com/article/10.1007/s00521-023-09066-y) |      [Link](https://github.com/GDM-SCNU/ADNMF.git)       |
-| 2018 | **Deep Autoencoder-like Nonnegative Matrix Factorization for** | Fanghua Ye | Sun Yat-sen University |  *CIKM*   | [Link](https://www.researchgate.net/profile/Chuan-Chen-11/publication/328439632_Deep_Autoencoder-like_Nonnegative_Matrix_Factorization_for_Community_Detection/links/5d7dc4b3a6fdcc2f0f6fbf3a/Deep-Autoencoder-like-Nonnegative-Matrix-Factorization-for-Community-Detection.pdf) | [Link](https://github.com/benedekrozemberczki/DANMF.git) |
+| 2024 | **Community detection in attributed networks via adaptive deep nonnegative matrix factorization** | Chaobo He  |   South China Normal   |   *NCA*   | [Link](https://link.springer.com/article/10.1007/s00521-023-09066-y) |      [Link](https://github.com/GDM-SCNU/ADNMF.git)       |
+| 2018 | **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection** | Fanghua Ye | Sun Yat-sen University |  *CIKM*   | [Link](https://www.researchgate.net/profile/Chuan-Chen-11/publication/328439632_Deep_Autoencoder-like_Nonnegative_Matrix_Factorization_for_Community_Detection/links/5d7dc4b3a6fdcc2f0f6fbf3a/Deep-Autoencoder-like-Nonnegative-Matrix-Factorization-for-Community-Detection.pdf) | [Link](https://github.com/benedekrozemberczki/DANMF.git) |
 
 ### Other Methods
 
@@ -108,10 +111,9 @@ This repository serves as a central hub for resources discussed in our weekly re
 | 2024 | **A Differentially Private Clustering Algorithm for Well-Clustered Graphs** |       Pan Peng        | University of Science and Technology of China |  *arXiv*  |           [Link](https://arxiv.org/pdf/2403.14332)           |  --  |
 | 2024 | **Dual Fusion AutoEncoder for Graph Clustering**             |      Yuanchi Ma       |          University of Pennsylvania           |  *ICLR*   |       [Link](https://openreview.net/pdf?id=VTdGLgmQQM)       |  --  |
 | 2024 | **Graph Decoding via Generalized Random Dot Product Graph**  | Alvaro Ciudad Serrano |                      --                       |  *ICLR*   |       [Link](https://openreview.net/pdf?id=AxYTFpdlvj)       |  --  |
-| 2024 | **Every Node is Different: Dynamically Fusing Self-Supervised Tasks** |        Yu Wang        |              Tianjin University               |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29664/31133) |  --  |
+| 2024 | **Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering** |        Yu Wang        |              Tianjin University               |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29664/31133) |  --  |
 | 2023 | **The projection method: a unified formalism for community detection** |    Martijn Gösgens    |      Eindhoven University of Technology       |  *arXiv*  | [Link](https://www.frontiersin.org/articles/10.3389/fcpxs.2024.1331320/pdf) |  --  |
 | 2023 | **Multi-class Graph Clustering via Approximated Effective** *p***-Resistance** |      Shota Saito      |           University College London           |  *PMLR*   | [Link](https://proceedings.mlr.press/v202/saito23a/saito23a.pdf) |  --  |
-| 2023 | **Community-Aware Efficient Graph Contrastive Learning via** |      Yuecheng Li      |            Sun Yat-Sen University             |  *arXiv*  |           [Link](https://arxiv.org/pdf/2311.11073)           |  --  |
 
 ### Community Detection with Unknown Cluster Number
 
@@ -127,9 +129,9 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### Temporal Community Detection
 
-| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
-| 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
+| Year | Title                              |     CA      |                Institution                | **Venue** |                  Paper                   |                             Code                             |
+| :--: | :--------------------------------- | :---------: | :---------------------------------------: | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **Deep Temporal Graph Clustering** | Xinwang Liu | National University of Defense Technology |  *arXiv*  | [Link](https://arxiv.org/pdf/2305.10738) | [Link](https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering.git) |
 
 ### Attribute-Missing Community Detection
 
