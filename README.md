@@ -98,28 +98,34 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### **Nonnegative** Matrix Factorization
 
-| Year | Title                                                        |     CA     |      Institution       | **Venue** |                            Paper                             |                           Code                           |
-| :--: | :----------------------------------------------------------- | :--------: | :--------------------: | :-------: | :----------------------------------------------------------: | :------------------------------------------------------: |
-| 2024 | **Contrastive Deep Nonnegative Matrix Factorization For Community Detection** | Chuan Chen | Sun Yat-sen University |  *arXiv*  | [Link](https://ieeexplore.ieee.org/abstract/document/10446107) |        [Link](https://github.com/6lyc/CDNMF.git)         |
-| 2024 | **Community detection in attributed networks via adaptive deep nonnegative matrix factorization** | Chaobo He  |   South China Normal   |   *NCA*   | [Link](https://link.springer.com/article/10.1007/s00521-023-09066-y) |      [Link](https://github.com/GDM-SCNU/ADNMF.git)       |
-| 2018 | **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection** | Fanghua Ye | Sun Yat-sen University |  *CIKM*   | [Link](https://www.researchgate.net/profile/Chuan-Chen-11/publication/328439632_Deep_Autoencoder-like_Nonnegative_Matrix_Factorization_for_Community_Detection/links/5d7dc4b3a6fdcc2f0f6fbf3a/Deep-Autoencoder-like-Nonnegative-Matrix-Factorization-for-Community-Detection.pdf) | [Link](https://github.com/benedekrozemberczki/DANMF.git) |
+| Year | Title                                                        |     CA      |      Institution       | **Venue** |                            Paper                             |                           Code                           |
+| :--: | :----------------------------------------------------------- | :---------: | :--------------------: | :-------: | :----------------------------------------------------------: | :------------------------------------------------------: |
+| 2024 | **Dual-learning Multi-hop Nonnegative Matrix Factorization for Community Detection** | Bilian Chen |   Xiamen University    |   *NN*    | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002843) |                            --                            |
+| 2024 | **Contrastive Deep Nonnegative Matrix Factorization For Community Detection** | Chuan Chen  | Sun Yat-sen University |  *arXiv*  | [Link](https://ieeexplore.ieee.org/abstract/document/10446107) |        [Link](https://github.com/6lyc/CDNMF.git)         |
+| 2024 | **Community detection in attributed networks via adaptive deep nonnegative matrix factorization** |  Chaobo He  |   South China Normal   |   *NCA*   | [Link](https://link.springer.com/article/10.1007/s00521-023-09066-y) |      [Link](https://github.com/GDM-SCNU/ADNMF.git)       |
+| 2018 | **Deep Autoencoder-like Nonnegative Matrix Factorization for Community Detection** | Fanghua Ye  | Sun Yat-sen University |  *CIKM*   | [Link](https://www.researchgate.net/profile/Chuan-Chen-11/publication/328439632_Deep_Autoencoder-like_Nonnegative_Matrix_Factorization_for_Community_Detection/links/5d7dc4b3a6fdcc2f0f6fbf3a/Deep-Autoencoder-like-Nonnegative-Matrix-Factorization-for-Community-Detection.pdf) | [Link](https://github.com/benedekrozemberczki/DANMF.git) |
 
 ### Other Methods
 
-| Year | Title                                                        |          CA           |                  Institution                  | **Venue** |                            Paper                             | Code |
-| :--: | :----------------------------------------------------------- | :-------------------: | :-------------------------------------------: | :-------: | :----------------------------------------------------------: | :--: |
-| 2024 | **A Differentially Private Clustering Algorithm for Well-Clustered Graphs** |       Pan Peng        | University of Science and Technology of China |  *arXiv*  |           [Link](https://arxiv.org/pdf/2403.14332)           |  --  |
-| 2024 | **Dual Fusion AutoEncoder for Graph Clustering**             |      Yuanchi Ma       |          University of Pennsylvania           |  *ICLR*   |       [Link](https://openreview.net/pdf?id=VTdGLgmQQM)       |  --  |
-| 2024 | **Graph Decoding via Generalized Random Dot Product Graph**  | Alvaro Ciudad Serrano |                      --                       |  *ICLR*   |       [Link](https://openreview.net/pdf?id=AxYTFpdlvj)       |  --  |
-| 2024 | **Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering** |        Yu Wang        |              Tianjin University               |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29664/31133) |  --  |
-| 2023 | **The projection method: a unified formalism for community detection** |    Martijn Gösgens    |      Eindhoven University of Technology       |  *arXiv*  | [Link](https://www.frontiersin.org/articles/10.3389/fcpxs.2024.1331320/pdf) |  --  |
-| 2023 | **Multi-class Graph Clustering via Approximated Effective *p*-Resistance** |      Shota Saito      |           University College London           |  *PMLR*   | [Link](https://proceedings.mlr.press/v202/saito23a/saito23a.pdf) |  --  |
+| Year | Title                                                        |          CA           |                         Institution                          | **Venue** |                            Paper                             | Code |
+| :--: | :----------------------------------------------------------- | :-------------------: | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :--: |
+| 2024 | **Self‑supervised graph clustering via attention auto‑encoder  with distribution specifcity** |       Zishi Li        |                      Xiamen University                       |   *MS*    | [Link](https://link.springer.com/article/10.1007/s00530-024-01346-4) |  --  |
+| 2024 | **CDC: A Simple Framework for Complex Data Clustering**      |       Zhao Kang       |   University of Electronic Science and Technology of China   |  *arXiv*  |           [Link](https://arxiv.org/pdf/2403.03670)           |  --  |
+| 2024 | **Provable Filter for Real-world Graph Clustering**          |     Xuanting Xie      |             University of Electronic Science and             |  *arXiv*  |           [Link](https://arxiv.org/pdf/2403.03666)           |  --  |
+| 2024 | **A Differentially Private Clustering Algorithm for Well-Clustered Graphs** |       Pan Peng        | Technology of ChinaUniversity of Science and Technology of China |  *arXiv*  |           [Link](https://arxiv.org/pdf/2403.14332)           |  --  |
+| 2024 | **Dual Fusion AutoEncoder for Graph Clustering**             |      Yuanchi Ma       |                  University of Pennsylvania                  |  *ICLR*   |       [Link](https://openreview.net/pdf?id=VTdGLgmQQM)       |  --  |
+| 2024 | **Graph Decoding via Generalized Random Dot Product Graph**  | Alvaro Ciudad Serrano |                              --                              |  *ICLR*   |       [Link](https://openreview.net/pdf?id=AxYTFpdlvj)       |  --  |
+| 2024 | **Every Node is Different: Dynamically Fusing Self-Supervised Tasks for Attributed Graph Clustering** |        Yu Wang        |                      Tianjin University                      |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29664/31133) |  --  |
+| 2023 | **The projection method: a unified formalism for community detection** |    Martijn Gösgens    |              Eindhoven University of Technology              |  *arXiv*  | [Link](https://www.frontiersin.org/articles/10.3389/fcpxs.2024.1331320/pdf) |  --  |
+| 2023 | **Multi-class Graph Clustering via Approximated Effective *p*-Resistance** |      Shota Saito      |                  University College London                   |  *PMLR*   | [Link](https://proceedings.mlr.press/v202/saito23a/saito23a.pdf) |  --  |
 
 ### Community Detection with Unknown Cluster Number
 
-| Year | Title                                                        |     CA     |        Institution         | **Venue** |                  Paper                   | Code |
-| :--: | :----------------------------------------------------------- | :--------: | :------------------------: | :-------: | :--------------------------------------: | :--: |
-| 2024 | **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** | Yuanchi Ma | University of Pennsylvania |  *arXiv*  | [Link](https://arxiv.org/pdf/2401.04741) |  --  |
+| Year | Title                                                        |     CA     |              Institution              | **Venue** |                       Paper                        | Code |
+| :--: | :----------------------------------------------------------- | :--------: | :-----------------------------------: | :-------: | :------------------------------------------------: | :--: |
+| 2024 | **Parameter-Agnostic Deep Graph Clustering**                 |  HAN ZHAO  |           Xidian University           |  *TKDD*   | [Link](https://dl.acm.org/doi/abs/10.1145/3633783) |  --  |
+| 2024 | **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k** | Yuanchi Ma |      University of Pennsylvania       |  *arXiv*  |      [Link](https://arxiv.org/pdf/2401.04741)      |  --  |
+| 2024 | **LSEnet: Lorentz Structural Entropy Neural Network for Deep Graph Clustering** |   Li Sun   | North China Electric Power University |  *arXiv*  |      [Link](https://arxiv.org/pdf/2405.11801)      |  --  |
 
 ### Overlapping Community Detection
 
@@ -135,9 +141,9 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 ### Attribute-Missing Community Detection
 
-| Year | Title       |  CA  | Institution |  **Venue**   |   Paper   |   Code    |
-| :--: | :---------- | :--: | :---------: | :----------: | :-------: | :-------: |
-| 2021 | Paper Title |      | University  | Journal Name | [Link](#) | [Link](#) |
+| Year | Title                                          |       CA       |                Institution                | **Venue** |                            Paper                             |                   Code                   |
+| :--: | :--------------------------------------------- | :------------: | :---------------------------------------: | :-------: | :----------------------------------------------------------: | :--------------------------------------: |
+| 2024 | **Attribute-Missing Graph Clustering Network** | **Wenxuan Tu** | National University of Defense Technology |  *AAAI*   | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/29464/30760) | [Link](https://github.com/WxTu/AMGC.git) |
 
 ### Multi-layer Community Detection
 
