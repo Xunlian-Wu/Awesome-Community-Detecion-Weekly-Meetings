@@ -225,7 +225,7 @@ Each week, we present a paper related to community detection in our research gro
 - **Week 4- [Revisiting Modularity Maximization for Graph Clustering: A Contrastive Learning Perspective(Magi)](https://github.com/Derick077/Weekly-meeting)and[Multi-View Attribute Graph Convolution Networks for Clustering(MAGCN)](https://github.com/guohanju/Weekly-Meeting.git) and [Cooperative Graph Neural Networks](https://github.com/fal1winter/graph-notebook)**
 - **Week 5- [Community detection based on unsupervised attributed network embedding（CBDNE）](https://github.com/Derick077/Weekly-meeting)and[Multi-view Attributed Graph Clustering(MAGC)](https://github.com/guohanju/Weekly-Meeting.git) and [Adaptive Graph Contrastive Learning for Recommendation](https://github.com/fal1winter/graph-notebook)**
  - **Week 6- Writting Essay and [Deep multi-view graph clustering network with weighting mechanism and collaborative training(DMVGC)](https://github.com/guohanju/Weekly-Meeting.git) and [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://github.com/fal1winter/graph-notebook)**
- - **Week 7- Writting Essay and [Multi-view attributed graph clustering based on graph diffusion convolution with adaptive fusion](https://github.com/guohanju/Weekly-Meeting.git) and [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://github.com/fal1winter/graph-notebook)**
+ - **Week 7- Writting Essay and [Multi-view attributed graph clustering based on graph diffusion convolution with adaptive fusion](https://github.com/guohanju/Weekly-Meeting.git) and [Graph Collaborative Signals Denoising and Augmentation for Recommendation](https://github.com/fal1winter/graph-notebook)**
 
 ---
 
