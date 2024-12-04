@@ -188,7 +188,7 @@ This repository serves as a central hub for resources discussed in our weekly re
 
 | Year | Title                                                        |       CA        |                       Institution                        | **Venue** |                            Paper                             |                         Code                         |
 | :--: | :----------------------------------------------------------- | :-------------: | :------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :--------------------------------------------------: |
-| 2024 | **Dual-Adaptive Fusion Multi-View Clustering Based  on Graph Autoencoder** |   Lijuan Zhou   |                   Zhengzhou University                   |  *IEEE*   |       [Link](https://openreview.net/pdf?id=kBfPB0i98K)       |                          --                          |
+| 2024 | **Dual-Adaptive Fusion Multi-View Clustering Based  on Graph Autoencoder** |   Lijuan Zhou   |                   Zhengzhou University                   |  *IEEE*   |       [Link](https://ieeexplore.ieee.org/abstract/document/10650084/)       |                          --                          |
 | 2024 | **Trusted Multi-view Learning with Label Noise**             |    Ziyu Guan    |                    Xidian University                     |  *arXiv*  |           [Link](https://arxiv.org/pdf/2404.11944)           |  [Link](https://github.com/YilinZhang107/TMNR.git)   |
 | 2024 | **Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph Clustering** |   Yazhou Ren    | University of Electronic Science and Technology of China |   *MM*    |       [Link](https://openreview.net/pdf?id=kBfPB0i98K)       |                          --                          |
 | 2024 | **Balanced Multi-Relational Graph Clustering**               |    Zhao Kang    | University of Electronic Science and Technology of China |  *arXiv*  |           [Link](https://arxiv.org/pdf/2407.16863)           |  [Link](https://github.com/zxlearningdeep/BMGC.git)  |
@@ -225,7 +225,7 @@ Each week, we present a paper related to community detection in our research gro
  - **Week 6- Writting Essay and [Deep multi-view graph clustering network with weighting mechanism and collaborative training(DMVGC)](https://github.com/guohanju/Weekly-Meeting.git) and [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://github.com/fal1winter/graph-notebook)**
  - **Week 7- Writting Essay and [Multi-view attributed graph clustering based on graph diffusion convolution with adaptive fusion](https://github.com/guohanju/Weekly-Meeting.git) and [Graph Collaborative Signals Denoising and Augmentation for Recommendation](https://github.com/fal1winter/graph-notebook)**
 - **Week 9- Writting Essay and  [AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation/GRAPH-LESS NEURAL NETWORKS: TEACHING OLD  MLPS NEW TRICKS VIA DISTILLATION](https://github.com/fal1winter/graph-notebook)**
----
+- **Week 10- Writting Essay and [Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph Clustering(DOAGC)](https://github.com/guohanju/Weekly-Meeting.git)**
 
 ## <a name="useful-libraries"></a> 📖 Useful Libraries
 
