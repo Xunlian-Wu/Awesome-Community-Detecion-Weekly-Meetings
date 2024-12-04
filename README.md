@@ -225,7 +225,7 @@ Each week, we present a paper related to community detection in our research gro
  - **Week 6- Writting Essay and [Deep multi-view graph clustering network with weighting mechanism and collaborative training(DMVGC)](https://github.com/guohanju/Weekly-Meeting.git) and [DiffKG: Knowledge Graph Diffusion Model for Recommendation](https://github.com/fal1winter/graph-notebook)**
  - **Week 7- Writting Essay and [Multi-view attributed graph clustering based on graph diffusion convolution with adaptive fusion](https://github.com/guohanju/Weekly-Meeting.git) and [Graph Collaborative Signals Denoising and Augmentation for Recommendation](https://github.com/fal1winter/graph-notebook)**
 - **Week 9- Writting Essay and  [AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation/GRAPH-LESS NEURAL NETWORKS: TEACHING OLD  MLPS NEW TRICKS VIA DISTILLATION](https://github.com/fal1winter/graph-notebook)**
----
+- **Week 10- Writting Essay and [Dual-Optimized Adaptive Graph Reconstruction for Multi-View Graph Clustering(DOAGC)](https://github.com/guohanju/Weekly-Meeting.git)**
 
 ## <a name="useful-libraries"></a> 📖 Useful Libraries
 
